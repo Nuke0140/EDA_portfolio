@@ -2,6 +2,9 @@
   "notebooks": {
     "data analytic project .ipynb": {
       "slug": "c6387f0fd4fc49a695dde541c3e6f257"
+    },
+    "EDA on titanic dataset .ipynb": {
+      "slug": "682a990d8ebe4a899060c0c150c7719e"
     }
   }
 }
